@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </p>
 
 ---
@@ -25,8 +25,7 @@
 ## 💡 Sobre mim
 
 - 🎓 Estudando Engenharia de Software  
-- 📱 Desenvolvedor focado em mobile com React Native  
-- 🎯 Em busca da primeira oportunidade como dev mobile  
+- 📱 Desenvolvedor focado em mobile com React Native   
 - 💻 Criando projetos semanais pra evoluir na prática  
 - 🧠 Valorizo código limpo, boas práticas e design bonito  
 
@@ -38,4 +37,3 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devjoaovofc)
 
 ---
-
