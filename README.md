@@ -1,40 +1,63 @@
-<h1 align="center">Fala dev! Eu sou o João Vitor 👨‍💻</h1>
+<!-- ANIMAÇÃO DE ENTRADA -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=420&lines=Jo%C3%A3o+Vitor+%E2%80%A2+Mobile+Developer;Criando+apps+mobile+de+Qualidade;React+Native+%7C+Expo"
+</p>
+
+<h2 align="center">📱 Mobile Developer</h2>
 
 <p align="center">
-  Estudante de Engenharia de Software e desenvolvedor mobile apaixonado por tecnologia 🚀<br>
-  Focado em criar experiências incríveis usando <strong>React Native</strong> com <strong>Expo</strong> 📱
+  Desenvolvedor <strong>Mobile</strong> especializado em criar aplicativos modernos,<br/>
+  escaláveis e com foco em <strong>UX, performance e produto</strong>.
+</p>
+
+<p align="center">
+  🎓 Engenharia de Software &nbsp;•&nbsp; 📲 Android & iOS &nbsp;•&nbsp; 🚀 Apps reais
 </p>
 
 ---
 
-## 🚀 Tecnologias que uso no dia a dia
+## 📱 Especialidade em Desenvolvimento Mobile
 
-<p align="left">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+- Desenvolvimento de aplicativos **Android e iOS** com React Native  
+- Utilização de **Expo** para produtividade e padronização  
+- Criação de interfaces mobile com foco em **usabilidade e experiência do usuário**  
+- Consumo de **APIs REST** e integração com serviços externos  
+- Gerenciamento de estado, navegação e arquitetura de apps  
+
+---
+
+## 🛠️ Stack Mobile
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" />
 </p>
 
----
-
-## 💡 Sobre mim
-
-- 🎓 Estudando Engenharia de Software  
-- 📱 Desenvolvedor focado em mobile com React Native   
-- 💻 Criando projetos semanais pra evoluir na prática  
-- 🧠 Valorizo código limpo, boas práticas e design bonito  
 
 ---
 
-## 📫 Me encontra aqui
+## 🚀 O que eu entrego como Mobile Dev
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-vitor-72394b258/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devjoaovofc)  
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/jotave2.0)
+- Apps bem estruturados e organizados  
+- Código limpo e reutilizável  
+- Interfaces consistentes com design systems  
+- Atenção à performance e responsividade  
+- Pensamento de produto (usuário final em primeiro lugar)  
 
----
+## 📫 Contato Profissional
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-72394b258/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:gestorjoaovitoroli@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
+
