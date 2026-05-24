@@ -1,63 +1,105 @@
-<!-- ANIMAÇÃO DE ENTRADA -->
+<!-- ANIMAÇÃO DE ENTRADA TECH / IA -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=420&lines=Jo%C3%A3o+Vitor+%E2%80%A2+Mobile+Developer;Criando+apps+mobile+de+Qualidade;React+Native+%7C+Expo"
+    src="https://demolab.com"
+  />
 </p>
 
-<h2 align="center">📱 Mobile Developer</h2>
+<!-- EFEITO VISUAL: LISTRAS CIBERNÉTICAS / IA EM DEGRADÊ -->
+<p align="center">
+  <img src="https://vercel.app" width="100%" />
+</p>
+
+<h2 align="center">🧠 Artificial Intelligence Engineer</h2>
 
 <p align="center">
-  Desenvolvedor <strong>Mobile</strong> especializado em criar aplicativos modernos,<br/>
-  escaláveis e com foco em <strong>UX, performance e produto</strong>.
+  Desenvolvedor focado em <strong>Engenharia de IA, Modelos Generativos e Machine Learning</strong>.<br/>
+  Especializando-se nas maiores tecnologias de infraestrutura cognitiva do mercado (IBM, Microsoft e Google).
 </p>
 
 <p align="center">
-  🎓 Engenharia de Software &nbsp;•&nbsp; 📲 Android & iOS &nbsp;•&nbsp; 🚀 Apps reais
+  🎓 Engenharia de Software &nbsp;•&nbsp; 🤖 LLMs & Agents &nbsp;•&nbsp; 🔮 Deep Learning
 </p>
 
 ---
 
-## 📱 Especialidade em Desenvolvimento Mobile
+## ⚡ Especializações em Andamento (Big Techs)
 
-- Desenvolvimento de aplicativos **Android e iOS** com React Native  
-- Utilização de **Expo** para produtividade e padronização  
-- Criação de interfaces mobile com foco em **usabilidade e experiência do usuário**  
-- Consumo de **APIs REST** e integração com serviços externos  
-- Gerenciamento de estado, navegação e arquitetura de apps  
+<table>
+  <tr>
+    <td><img src="https://shields.io" /></td>
+    <td><strong>IBM AI Developer Professional Certificate</strong></td>
+  </tr>
+  <tr>
+    <td><img src="https://shields.io" /></td>
+    <td><strong>Generative AI for Software Developers Specialization</strong></td>
+  </tr>
+  <tr>
+    <td><img src="https://shields.io" /></td>
+    <td><strong>Microsoft AI & ML Engineering Professional Certificate</strong></td>
+  </tr>
+  <tr>
+    <td><img src="https://shields.io" /></td>
+    <td><strong>Google Generative AI Learning Path</strong></td>
+  </tr>
+</table>
 
 ---
 
-## 🛠️ Stack Mobile
+## 🛠️ AI Stack & Ferramentas
+
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" />
+  <!-- Python -->
+  <img src="https://shields.io" />
+  <!-- PyTorch -->
+  <img src="https://shields.io" />
+  <!-- LangChain -->
+  <img src="https://shields.io" />
+  <!-- OpenAI -->
+  <img src="https://shields.io" />
+</p>
+<p align="center">
+  <!-- Hugging Face -->
+  <img src="https://shields.io" />
+  <!-- Azure -->
+  <img src="https://shields.io" />
+  <!-- IBM Watson -->
+  <img src="https://shields.io" />
+  <!-- Git -->
+  <img src="https://shields.io" />
 </p>
 
+---
+
+## 🚀 Linhas de Pesquisa e Desenvolvimento
+
+- 🤖 **Engenharia de Prompts Avançada** & Construção de AI Agents
+- 📊 **Fine-tuning** e implantação de Modelos de Linguagem de Grande Porte (LLMs)
+- 🧠 Integração de **Sistemas Cognitivos e Bancos de Dados Vetoriais** (RAG)
+- ☁️ MLOps em infraestruturas **Microsoft Azure AI** e **IBM Cloud**
 
 ---
 
-## 🚀 O que eu entrego como Mobile Dev
-
-- Apps bem estruturados e organizados  
-- Código limpo e reutilizável  
-- Interfaces consistentes com design systems  
-- Atenção à performance e responsividade  
-- Pensamento de produto (usuário final em primeiro lugar)  
-
-## 📫 Contato Profissional
+## 📊 Estatísticas de Código (Modo IA Ativado)
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-72394b258/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://vercel.app" alt="Estatísticas do GitHub" />
+</p>
+
+---
+
+## 📫 Redes & Conexões
+
+<p align="center">
+  <a href="https://linkedin.com">
+    <img src="https://shields.io"/>
   </a>
   <a href="mailto:gestorjoaovitoroli@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail"/>
+    <img src="https://shields.io"/>
   </a>
 </p>
 
+<!-- RODAPÉ ONDULADO EM DEGRADÊ -->
+<p align="center">
+  <img src="https://vercel.app" width="100%" />
+</p>
